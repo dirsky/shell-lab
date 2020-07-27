@@ -1,0 +1,5 @@
+vim /etc/sudoers
+
+修改Same thing without a password
+去掉注释符号，然后:wq!
+然后通过sudo -s切换即可
